@@ -71,8 +71,8 @@ MONGODB_URI=mongodb://localhost:27017/mental-wellness-mirror
 6. **Update .env**
 
 ```env
-MONGODB_URI=mongodb+srv://wellness_user:YOUR_PASSWORD@cluster0.xxxxx.mongodb.net/mental-wellness-mirror?retryWrites=true&w=majority
-```
+MONGODB_URI=your_mongodb_connection_string
+
 
 Replace:
 
